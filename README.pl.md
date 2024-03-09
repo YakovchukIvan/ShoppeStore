@@ -1,4 +1,3 @@
-
 # Projekt zespołowy **Shoppe Store** | Vanilla JS
 
 &nbsp;
@@ -11,8 +10,8 @@
 
 &nbsp;
 
-| УЧАСНИК                                                                                                            | РОЛІ                                                                |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| UCZESTNICY                                                                                                        | ROLE                                                                |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <span style="font-size:20px">[**Vasyl Verbytskyi**](https://github.com/San88Francisco 'Przejdź do GitHub')</span> | <span style="font-size:20px">**Lead Software Developer**</span>     |
 | <span style="font-size:20px">[**Roman Vasylenko**](https://github.com/Akumuuu 'Przejdź do GitHub')</span>         | <span style="font-size:20px">**Lead Software Developer**</span>     |
 | <span style="font-size:20px">[**Ivan Yakovchuk**](https://github.com/YakovchukIvan 'Przejdź do GitHub')</span>    | <span style="font-size:20px">**Frontend Software Developer**</span> |
@@ -73,7 +72,6 @@
     </li>
 </ol>
 
-
 ## Wartość projektu:
 
 ### Głównym celem było doskonalenie umiejętności w zakresie tworzenia wielofunkcyjnych stron internetowych w czystym JavaScript.
@@ -85,7 +83,6 @@
 ### Zastosowano własną konfigurację, która łączy Webpack i Gulp, aby lepiej zrozumieć różne rodzaje konfiguracji.
 
 #### Aby rozpocząć pracę, należy zainstalować pakiety modułów:
-
 
 ```
 npm install
@@ -119,6 +116,3 @@ npm run dev
 &nbsp;
 
 # Dziękuję za Twój czas!
-
-
-
