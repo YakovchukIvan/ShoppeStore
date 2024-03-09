@@ -1,5 +1,8 @@
 # Projekt zespołowy **Shoppe Store** | Vanilla JS
 
+Czytanie w innym języku [**Angielski**](https://github.com/San88Francisco/ShoppeStore/blob/main/README.md 'Przejdź do tłumaczenia na język angielski')  
+Czytanie w innym języku [**Ukraiński**](https://github.com/San88Francisco/ShoppeStore/blob/main/README.ua.md 'Przejdź do tłumaczenia na język ukraiński')
+
 &nbsp;
 
 # Link do projektu [**ShoppeStore.com.ua**](https://shoppestore.netlify.app 'Przejdź do strony projektu')
@@ -10,14 +13,14 @@
 
 &nbsp;
 
-| UCZESTNICY                                                                                                        | ROLE                                                                |
+| UCZESTNIK                                                                                                         | ROLE                                                                |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <span style="font-size:20px">[**Vasyl Verbytskyi**](https://github.com/San88Francisco 'Przejdź do GitHub')</span> | <span style="font-size:20px">**Lead Software Developer**</span>     |
 | <span style="font-size:20px">[**Roman Vasylenko**](https://github.com/Akumuuu 'Przejdź do GitHub')</span>         | <span style="font-size:20px">**Lead Software Developer**</span>     |
 | <span style="font-size:20px">[**Ivan Yakovchuk**](https://github.com/YakovchukIvan 'Przejdź do GitHub')</span>    | <span style="font-size:20px">**Frontend Software Developer**</span> |
 | <span style="font-size:20px">[**Danylo Glusov**](https://github.com/Xlussov 'Przejdź do GitHub')</span>           | <span style="font-size:20px">**Frontend Software Developer**</span> |
 | <span style="font-size:20px">[**Andrii Dmytruk**](https://github.com/admitruk237 'Przejdź do GitHub')</span>      | <span style="font-size:20px">**Frontend Software Developer**</span> |
-| <span style="font-size:20px">[**Andrij Pot**](https://github.com/AndrijPot 'Przejdź do GitHub')</span>            | <span style="font-size:20px">**Frontend Software Developer**</span> |
+| <span style="font-size:20px">[**Andrij Potapov**](https://github.com/AndrijPot 'Przejdź do GitHub')</span>        | <span style="font-size:20px">**Frontend Software Developer**</span> |
 | <span style="font-size:20px">[**Denys Levchenko**](https://github.com/gitdenlev 'Przejdź do GitHub')</span>       | <span style="font-size:20px">**Frontend Software Developer**</span> |
 | <span style="font-size:20px">[**Denys Tkachenko**](https://github.com/Tkachenko01001 'Przejdź do GitHub')</span>  | <span style="font-size:20px">**Frontend Software Developer**</span> |
 | <span style="font-size:20px">[**Volodymyr Kirilyuk**](https://github.com/ZD-Donatik 'Przejdź do GitHub')</span>   | <span style="font-size:20px">**Frontend Software Developer**</span> |
